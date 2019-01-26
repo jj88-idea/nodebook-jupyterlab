@@ -4,3 +4,9 @@
 [submodule "binderhub"]
 	path = binderhub
 	url = https://github.com/z4-okj8/binderhub.git
+[submodule "awesome-jupyterlab"]
+	path = awesome-jupyterlab
+	url = https://github.com/z4-okj8/awesome-jupyterlab.git
+[submodule "awesome-jupyter"]
+	path = awesome-jupyter
+	url = https://github.com/z4-okj8/awesome-jupyter.git
