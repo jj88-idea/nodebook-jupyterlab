@@ -1,0 +1,6 @@
+[submodule "jupyterlab"]
+	path = jupyterlab
+	url = https://github.com/z4-okj8/jupyterlab.git
+[submodule "binderhub"]
+	path = binderhub
+	url = https://github.com/z4-okj8/binderhub.git
